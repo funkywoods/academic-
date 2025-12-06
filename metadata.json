@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Academia Afrik Voice Assistant",
+  "description": "A smart, voice-enabled assistant for the Academia Afrik platform, helping students with registration, referrals, and tutoring services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
